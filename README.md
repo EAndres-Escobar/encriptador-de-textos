@@ -13,6 +13,8 @@ Clona el Repositorio:
 bash
 Copiar código
 
+https://github.com/EAndres-Escobar/encriptador-de-textos.git
+
 Abre el Proyecto: Navega al directorio del proyecto y abre el archivo index.html en tu navegador.
 
 Empieza a Encriptar: Ingresa tu texto en el área designada y utiliza las funciones de encriptación y desencriptación.
